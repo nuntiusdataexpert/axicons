@@ -1,17 +1,17 @@
 @font-face {
-  font-family: 'ax-logo';
-  src:  url('fonts/ax-logo.eot?uzjml4');
-  src:  url('fonts/ax-logo.eot?uzjml4#iefix') format('embedded-opentype'),
-    url('fonts/ax-logo.ttf?uzjml4') format('truetype'),
-    url('fonts/ax-logo.woff?uzjml4') format('woff'),
-    url('fonts/ax-logo.svg?uzjml4#ax-logo') format('svg');
+  font-family: 'ax';
+  src:  url('fonts/ax.eot?yku000');
+  src:  url('fonts/ax.eot?yku000#iefix') format('embedded-opentype'),
+    url('fonts/ax.ttf?yku000') format('truetype'),
+    url('fonts/ax.woff?yku000') format('woff'),
+    url('fonts/ax.svg?yku000#ax') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 [class^="ax-"], [class*=" ax-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'ax-logo' !important;
+  font-family: 'ax' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
