@@ -1,0 +1,158 @@
+@font-face {
+  font-family: 'ax-logo';
+  src:  url('fonts/ax-logo.eot?uzjml4');
+  src:  url('fonts/ax-logo.eot?uzjml4#iefix') format('embedded-opentype'),
+    url('fonts/ax-logo.ttf?uzjml4') format('truetype'),
+    url('fonts/ax-logo.woff?uzjml4') format('woff'),
+    url('fonts/ax-logo.svg?uzjml4#ax-logo') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="ax-"], [class*=" ax-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'ax-logo' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ax-axpos:before {
+  content: "\e900";
+}
+.ax-axpre:before {
+  content: "\e901";
+}
+.ax-message:before {
+  content: "\e929";
+}
+.ax-bullhorn:before {
+  content: "\e928";
+}
+.ax-menu:before {
+  content: "\e911";
+}
+.ax-letter-send1:before {
+  content: "\e914";
+}
+.ax-paint-brush:before {
+  content: "\e923";
+}
+.ax-view:before {
+  content: "\e927";
+}
+.ax-pay:before {
+  content: "\e910";
+}
+.ax-letter:before {
+  content: "\e908";
+}
+.ax-finish:before {
+  content: "\e925";
+}
+.ax-power:before {
+  content: "\e926";
+}
+.ax-more:before {
+  content: "\e924";
+}
+.ax-arrow-down:before {
+  content: "\e902";
+}
+.ax-arrow-left:before {
+  content: "\e92b";
+}
+.ax-arrow-right:before {
+  content: "\e92a";
+}
+.ax-arrow-up:before {
+  content: "\e903";
+}
+.ax-bad:before {
+  content: "\e904";
+}
+.ax-calendar:before {
+  content: "\e905";
+}
+.ax-check:before {
+  content: "\e906";
+}
+.ax-control-panel:before {
+  content: "\e907";
+}
+.ax-edit:before {
+  content: "\e909";
+}
+.ax-file:before {
+  content: "\e90a";
+}
+.ax-find:before {
+  content: "\e90b";
+}
+.ax-gear:before {
+  content: "\e90c";
+}
+.ax-heart:before {
+  content: "\e90d";
+}
+.ax-impersonate:before {
+  content: "\e90e";
+}
+.ax-internet:before {
+  content: "\e90f";
+}
+.ax-letter-send:before {
+  content: "\e912";
+}
+.ax-lock:before {
+  content: "\e913";
+}
+.ax-plus:before {
+  content: "\e915";
+}
+.ax-plus-o:before {
+  content: "\e916";
+}
+.ax-price:before {
+  content: "\e917";
+}
+.ax-print:before {
+  content: "\e918";
+}
+.ax-refresh:before {
+  content: "\e919";
+}
+.ax-report:before {
+  content: "\e91a";
+}
+.ax-skull:before {
+  content: "\e91b";
+}
+.ax-smile:before {
+  content: "\e91c";
+}
+.ax-star:before {
+  content: "\e91d";
+}
+.ax-times:before {
+  content: "\e91e";
+}
+.ax-trash:before {
+  content: "\e91f";
+}
+.ax-unlock:before {
+  content: "\e920";
+}
+.ax-user:before {
+  content: "\e921";
+}
+.ax-users:before {
+  content: "\e922";
+}
