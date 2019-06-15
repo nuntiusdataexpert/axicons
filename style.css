@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'ax';
-  src:  url('fonts/ax.eot?yku000');
-  src:  url('fonts/ax.eot?yku000#iefix') format('embedded-opentype'),
-    url('fonts/ax.ttf?yku000') format('truetype'),
-    url('fonts/ax.woff?yku000') format('woff'),
-    url('fonts/ax.svg?yku000#ax') format('svg');
+  src:  url('fonts/ax.eot?d210wv');
+  src:  url('fonts/ax.eot?d210wv#iefix') format('embedded-opentype'),
+    url('fonts/ax.ttf?d210wv') format('truetype'),
+    url('fonts/ax.woff?d210wv') format('woff'),
+    url('fonts/ax.svg?d210wv#ax') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -108,7 +108,7 @@
 .ax-internet:before {
   content: "\e90f";
 }
-.ax-letter-send:before {
+.ax-letter-history:before {
   content: "\e912";
 }
 .ax-lock:before {
