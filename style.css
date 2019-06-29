@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'ax';
-  src:  url('fonts/ax.eot?r2avbx');
-  src:  url('fonts/ax.eot?r2avbx#iefix') format('embedded-opentype'),
-    url('fonts/ax.ttf?r2avbx') format('truetype'),
-    url('fonts/ax.woff?r2avbx') format('woff'),
-    url('fonts/ax.svg?r2avbx#ax') format('svg');
+  src:  url('fonts/ax.eot?12r5zf');
+  src:  url('fonts/ax.eot?12r5zf#iefix') format('embedded-opentype'),
+    url('fonts/ax.ttf?12r5zf') format('truetype'),
+    url('fonts/ax.woff?12r5zf') format('woff'),
+    url('fonts/ax.svg?12r5zf#ax') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -29,6 +29,15 @@
 }
 .ax-axpre:before {
   content: "\e901";
+}
+.ax-checkbox:before {
+  content: "\e92c";
+}
+.ax-radio:before {
+  content: "\e92d";
+}
+.ax-unchecked:before {
+  content: "\e92e";
 }
 .ax-message:before {
   content: "\e929";
