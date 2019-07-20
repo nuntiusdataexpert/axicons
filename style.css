@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'ax';
-  src:  url('fonts/ax.eot?lsjke0');
-  src:  url('fonts/ax.eot?lsjke0#iefix') format('embedded-opentype'),
-    url('fonts/ax.ttf?lsjke0') format('truetype'),
-    url('fonts/ax.woff?lsjke0') format('woff'),
-    url('fonts/ax.svg?lsjke0#ax') format('svg');
+  src:  url('fonts/ax.eot?7rydki');
+  src:  url('fonts/ax.eot?7rydki#iefix') format('embedded-opentype'),
+    url('fonts/ax.ttf?7rydki') format('truetype'),
+    url('fonts/ax.woff?7rydki') format('woff'),
+    url('fonts/ax.svg?7rydki#ax') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -29,6 +29,9 @@
 }
 .ax-axpre:before {
   content: "\e901";
+}
+.ax-dashboard:before {
+  content: "\e934";
 }
 .ax-medical-agreement .path1:before {
   content: "\e930";
